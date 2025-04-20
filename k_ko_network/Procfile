@@ -1,0 +1,1 @@
+web: gunicorn k_ko_network.wsgi
